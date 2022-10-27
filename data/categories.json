@@ -17,14 +17,10 @@
     },
     {
         "id": "05",
-        "name": "Video Creating"
+        "name": "Video Editing"
     },
     {
         "id": "06",
         "name": "Machine Learning"
-    },
-    {
-        "id": "07",
-        "name": "Learning"
     }
 ]
