@@ -26,6 +26,7 @@ app.get('/courses/:id', (req, res) => {
     res.send(selectedCourse)
 
 })
+
 app.get('/', (req, res) => {
     res.send('Hello World!')
 })
