@@ -1,0 +1,62 @@
+[
+    {
+        "id": "01",
+        "category_id": "01",
+        "_id": "abcde1",
+        "name": "Digital Marketings",
+        "instractor": "Hasan Ali",
+        "img": "https://images.pexels.com/photos/6476193/pexels-photo-6476193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "course_text": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
+        "price": "5000"
+    },
+    {
+        "id": "02",
+        "category_id": "02",
+        "_id": "abcde2",
+        "name": "Content Writing",
+        "instractor": "Tayeb",
+        "img": "https://images.pexels.com/photos/110473/pexels-photo-110473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "course_text": "Content writing is the process of writing, editing, and publishing content in a digital format. That content can include blog posts, video or podcast scripts, ebooks or whitepapers, press releases, product category descriptions, landing page or social media copy ... and more.",
+        "price": "4000"
+    },
+    {
+        "id": "03",
+        "category_id": "03",
+        "_id": "abcde3",
+        "name": "Web Development",
+        "instractor": "Rakib",
+        "img": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "course_text": " Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site",
+        "price": "6000"
+    },
+    {
+        "id": "04",
+        "category_id": "04",
+        "_id": "abcde4",
+        "name": "Graphic Designing",
+        "instractor": "A. Rahim",
+        "img": "https://images.pexels.com/photos/3747266/pexels-photo-3747266.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "course_text": "Image result for graphic design Graphic design is a great career for people who are creative thinkers and enjoy art, technology, and communication. There are design needs across every industry, so Graphic Designers have many opportunities to take on a range of new and exciting projects.",
+        "price": "5000"
+    },
+    {
+        "id": "05",
+        "category_id": "05",
+        "_id": "abcde5",
+        "name": "Video Creating",
+        "instractor": "Rana",
+        "img": "https://images.pexels.com/photos/66134/pexels-photo-66134.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "course_text": "We believe that the best free video editing software is Visme because we offer a massive online library of stock video clips, animated assets that will help your video stand out, easy-to-customize video templates, custom animation capabilities and so much more.",
+        "price": "3000"
+    },
+    {
+        "id": "06",
+        "category_id": "06",
+        "_id": "abcde6",
+        "name": "Machine Learining",
+        "instractor": "Firoz",
+        "img": "https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "course_text": " Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy",
+        "price": "10000"
+    }
+]
